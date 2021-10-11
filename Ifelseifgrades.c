@@ -8,7 +8,7 @@ if(85<=m&&m<=100)
 {
 printf("Grade A");
 }
-else if(70<=m&&m<=84>)
+else if(70<=m&&m<=84)
 {
 printf("Grade B");
 }
